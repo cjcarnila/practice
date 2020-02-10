@@ -1,0 +1,10 @@
+Gather information about what is in blue bins
+Design physical setup along with any changes
+Design page components, specific pages, folders, etc: index.html, .css, pics and products folders
+Draw a wireframe
+Build html skeleton and basic CSS
+After page is up and basically running get the CSS layout done in box, flex and grid
+Get it into git with forks for each of the CSS layouts, while I am thinking about how to manage this in git maybe have alternate pages for each: sc_boxes_bx, sc_boxes_fx, sc_boxes_gr; gritty but effective for now
+Start to add the CSS style touches
+Incorporate javaScript
+Is there a Python need here?
